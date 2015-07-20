@@ -1,0 +1,6 @@
+*~
+target/
+tmp/
+*.class
+*.jar
+scheme/oauth-keys.scm
